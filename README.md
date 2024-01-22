@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Sujas Aggarwal</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-
-
-- 👯 I’m open to collaborating on **Projects**
+<h3 align="center">A Passionate Full Stack Developer aka No Social Life Nerd</h3>
+Portfolio is still in progress hence,
+My Informal Portfolio - https://bento.me/sujas-aggarwal
 
 <p align="left">
 </p>
