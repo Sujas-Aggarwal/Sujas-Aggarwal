@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Sujas Aggarwal</h1>
 <h3 align="center">A Passionate Full Stack Developer aka No Social Life Nerd</h3>
-<p align="center">The portfolio is still in progress hence,
-My Informal Portfolio - https://bento.me/sujas-aggarwal</p>
+<p align="center">Know More About Me - sujas.tech
 
 <p align="left">
 </p>
