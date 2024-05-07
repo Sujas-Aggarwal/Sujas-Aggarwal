@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sujas Aggarwal</h1>
 <h3 align="center">A Passionate Full Stack Developer aka No Social Life Nerd</h3>
-<p align="center">Know More About Me - sujas.tech
+<p align="center">Know More About Me - www.sujas.tech
 
 <p align="left">
 </p>
