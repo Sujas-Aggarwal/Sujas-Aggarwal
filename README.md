@@ -74,10 +74,5 @@
 </thead>
 </tr>
 <hr>
-<p><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sujas-Aggarwal&show_icons=true&theme=dark&title_color=f07d4c&text_color=FFFFFF&locale=en&layout=compact" alt="Sujas-Aggarwal" /></a></p>
-
-<p><a href="#" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sujas-Aggarwal&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="Sujas-Aggarwal" /></a></p>
-
-<hr>
 
 <h3 align="center">Not Looking for Full Time Jobs Yet</h3>
