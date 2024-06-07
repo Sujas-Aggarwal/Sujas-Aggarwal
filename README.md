@@ -1,13 +1,83 @@
-<h1 align="center">Hi, I'm Sujas Aggarwal</h1>
-<h3 align="center">A Passionate Full Stack Developer aka No Social Life Nerd</h3>
-<p align="center">Know More About Me - www.sujas.tech
+<h3 align="center">If any of my batchmate/professor is here, this is the reason I don't come out of my room</h3>
+<h2><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujas-Aggarwal&theme=dark" alt="Sujas-Aggarwal" /></a></h2>
 
-<p align="left">
-</p>
+<h3 align="left"><a href="#" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=Sujas-Aggarwal&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Sujas-Aggarwal" /></a></h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-  [![My Stats](https://github-readme-stats.vercel.app/api?username=Sujas-Aggarwal&show_icons=true&theme=transparent&hide_rank=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujas-Aggarwal&theme=transparent&hide_progress=true)
+- I’m currently wasting my time on **Docker, Webhooks**
+
+-  **<a href="https://sujas.tech/" target="_blank" rel="noreferrer">Copy-Paste Portfolio</a>**
+
+<br>
+
+<hr>
+
+
+<h2 align="left">Things I have wasted my Time on</h2>
+<a href="#" target="_blank" rel="noreferrer"> <img align="right" src="https://e7.pngegg.com/pngimages/90/776/png-clipart-internet-meme-cat-internet-forum-game-meme-game-cat-like-mammal-thumbnail.png" alt="Cat Lover"></a>
+
+
+<strong align="left">Gambling</strong>
+<table>
+<thead>
+<tr>
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a></th>
+
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" width="40" height="40"/> </a> </th>
+</table>
+</thead>
+</tr>
+
+<strong align="left">Copy Paste</strong>
+<table>
+<thead>
+<tr>
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/226/226269.png" alt="html5" width="32" height="32"/> </a> </th>
+
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="32" height="32"/> </a> </th>
+
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a></th> 
+
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCg8JqsAywWcx9yXjTjj7b-E-nPKbASsjpg&usqp=CA" alt="javascript" width="35" height="35"/> </a></th> 
+
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="38" height="37"/> </a></th>
+</tr>
+</thead>
+</table>
+
+<strong align="left">Anger Control</strong>
+<table>
+<thead>
+<tr>
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </th>
+<table>
+<thead>
+<tr>
+
+<strong align="left">Girlfriends</strong>
+<table>
+<thead>
+<tr>
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> </th>
+</table>
+</thead>
+</tr>
+
+<h2 align="left">Do not contact me on mail unless its about money</h2>
+<table>
+<thead>
+<tr>
+<th><a href="https://linkedin.com/in/sujasaggarwal" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Sujas Aggarwal" height="30" width="30" /></a></th>
+
+<th><a href="mailto:sujaskhadria@gmail.com?subject=From%20GitHub" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Sujas Aggarwal" height="36" width="34" /></a></th>
+</table>
+</thead>
+</tr>
+<hr>
+<p><a href="#" target="_blank" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sujas-Aggarwal&show_icons=true&theme=dark&title_color=f07d4c&text_color=FFFFFF&locale=en&layout=compact" alt="Sujas-Aggarwal" /></a></p>
+
+<p><a href="#" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sujas-Aggarwal&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="Sujas-Aggarwal" /></a></p>
+
+<hr>
+
+<h3 align="center">Not Looking for Full Time Jobs Yet</h3>
