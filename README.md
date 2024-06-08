@@ -62,7 +62,6 @@
 <thead>
 <tr>
   <th><a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCg8JqsAywWcx9yXjTjj7b-E-nPKbASsjpg&usqp=CA" alt="javascript" width="40" height="40"/> </a></th>
-<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> </th>
 </table>
 </thead>
 </tr>
