@@ -1,7 +1,7 @@
 <h3 align="center">If any of my batchmate/professor is here, this is the reason I don't come out of my room</h3>
 <h2><a href="#" target="_blank" rel="noreferrer"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujas-Aggarwal&theme=dark" alt="Sujas-Aggarwal" /></a></h2>
 
-<h3 align="left"><a href="#" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=Sujas-Aggarwal&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Sujas-Aggarwal" /></a></h3>
+<h3 align="left"><a href="#" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/d99cfc7333abda42f175b8f79b81279e360f30b24e671e780f478fabfb68f2d3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f7572757365726e616d6526636f6c6f723d627269676874677265656e" alt="Sujas-Aggarwal" /></a></h3>
 
 
 - I’m currently wasting my time on **Docker, Webhooks**
