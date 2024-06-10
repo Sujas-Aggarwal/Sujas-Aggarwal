@@ -21,7 +21,6 @@
 <table>
 <thead>
 <tr>
-<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a></th>
   
 <th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="dart" width="38" height="38"/></a></th>
 
