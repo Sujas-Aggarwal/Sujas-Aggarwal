@@ -27,7 +27,6 @@
 <th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" width="40" height="40"/> </a> </th>
 <th><a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCg8JqsAywWcx9yXjTjj7b-E-nPKbASsjpg&usqp=CA" alt="javascript" width="40" height="40"/> </a></th>
 <th><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> </th>
-<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/122120461/337686638-844be252-11a3-407c-9099-310827b5e58c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240607T141223Z&X-Amz-Expires=300&X-Amz-Signature=2fbc5de24878c5f420c3b80effcb2379db0abab72a221ff12ca531a1992358e5&X-Amz-SignedHeaders=host&actor_id=122120461&key_id=0&repo_id=742403622" alt="go" width="38" height="38"/></a></th>
 
 
 </table>
