@@ -37,6 +37,8 @@
 <thead>
   
 <tr>
+  
+<th><a href="#" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" alt="nextjs" width="45" height="35"/> </a></th>
 <th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="35" height="35"/> </a></th>
 <th><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="38" height="38"/> </a></th>
 
